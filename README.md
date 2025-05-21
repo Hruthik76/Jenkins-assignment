@@ -17,4 +17,4 @@ Easy Assignment: "Create and Monitor a Basic Jenkins Pipeline"
 
 4. Brief summary (3-5 sentences) describing what you learned about Jenkins navigation.
 
-Jenkins navigation helps us to understand it's dashboard, pipeline creation and setting up it's features
+Jenkins navigation helps us to understand it's dashboard, pipeline creation and setting up it's features. The navigation tools helps the woekflow management and provide visibility into build states.Mastering the jenkins navigation enhances productivity and simplifies continuous integration process.
